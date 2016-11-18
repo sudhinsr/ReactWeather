@@ -6,7 +6,7 @@ var About = (props) => {
       <h1 className="text-center page-title">About</h1>
       <p>
         THis is a weather application build on react. I have built this
-         for THe Complete React Web App Developer Course
+         for The Complete React Web App Developer Course
        </p>
        <p>
          Here are some of the tools I used:
